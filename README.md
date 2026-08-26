@@ -1,6 +1,6 @@
 # kb-image-supply 知识库配图补给 Skill
 
-> 一个简单的为 AstrBot 知识库检索结果自动配图的skill —— 纯文本RAG功能扩展
+> 一个简单的为 AstrBot 知识库检索结果自动配图的skill —— 纯文本RAG功能扩展    ——by 青色照明 团队 面向师生双端的教学智能体方案
 
 ## 注意
 
